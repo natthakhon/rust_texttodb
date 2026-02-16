@@ -1,0 +1,11 @@
+[package]
+name = "random_text_to_db"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+async-trait = "0.1.89"
+chrono = "0.4.43"
+rand = "0.9.2"
+sqlx = "0.8.6"
+uuid = { version = "1.20.0", features = ["v4"] }

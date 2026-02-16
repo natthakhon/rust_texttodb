@@ -1,0 +1,14 @@
+D:\code\rust\random_text_to_db\target\debug\deps\serde-f97e7edae460541d.d: C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\code\rust\random_text_to_db\target\debug\build\serde-068568e497476155\out/private.rs
+
+D:\code\rust\random_text_to_db\target\debug\deps\libserde-f97e7edae460541d.rlib: C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\code\rust\random_text_to_db\target\debug\build\serde-068568e497476155\out/private.rs
+
+D:\code\rust\random_text_to_db\target\debug\deps\libserde-f97e7edae460541d.rmeta: C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\code\rust\random_text_to_db\target\debug\build\serde-068568e497476155\out/private.rs
+
+C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+D:\code\rust\random_text_to_db\target\debug\build\serde-068568e497476155\out/private.rs:
+
+# env-dep:OUT_DIR=D:\\code\\rust\\random_text_to_db\\target\\debug\\build\\serde-068568e497476155\\out
