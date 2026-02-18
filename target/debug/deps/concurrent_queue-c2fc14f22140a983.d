@@ -1,9 +1,0 @@
-D:\code\rust\random_text_to_db\target\debug\deps\concurrent_queue-c2fc14f22140a983.d: C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\concurrent-queue-2.5.0\src\lib.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\concurrent-queue-2.5.0\src\bounded.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\concurrent-queue-2.5.0\src\single.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\concurrent-queue-2.5.0\src\unbounded.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\concurrent-queue-2.5.0\src\sync.rs
-
-D:\code\rust\random_text_to_db\target\debug\deps\libconcurrent_queue-c2fc14f22140a983.rmeta: C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\concurrent-queue-2.5.0\src\lib.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\concurrent-queue-2.5.0\src\bounded.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\concurrent-queue-2.5.0\src\single.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\concurrent-queue-2.5.0\src\unbounded.rs C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\concurrent-queue-2.5.0\src\sync.rs
-
-C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\concurrent-queue-2.5.0\src\lib.rs:
-C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\concurrent-queue-2.5.0\src\bounded.rs:
-C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\concurrent-queue-2.5.0\src\single.rs:
-C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\concurrent-queue-2.5.0\src\unbounded.rs:
-C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\concurrent-queue-2.5.0\src\sync.rs:

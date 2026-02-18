@@ -1,7 +1,0 @@
-D:\code\rust\random_text_to_db\target\debug\deps\scopeguard-3126ec6f9b5b2bc7.d: C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scopeguard-1.2.0\src\lib.rs
-
-D:\code\rust\random_text_to_db\target\debug\deps\libscopeguard-3126ec6f9b5b2bc7.rlib: C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scopeguard-1.2.0\src\lib.rs
-
-D:\code\rust\random_text_to_db\target\debug\deps\libscopeguard-3126ec6f9b5b2bc7.rmeta: C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scopeguard-1.2.0\src\lib.rs
-
-C:\Users\NatthakornL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scopeguard-1.2.0\src\lib.rs:
