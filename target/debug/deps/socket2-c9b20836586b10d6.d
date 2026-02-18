@@ -1,0 +1,9 @@
+D:\code\rust\random_text_to_db\rust_texttodb\target\debug\deps\socket2-c9b20836586b10d6.d: C:\Users\natthakhonl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.2\src\lib.rs C:\Users\natthakhonl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.2\src\sockaddr.rs C:\Users\natthakhonl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.2\src\socket.rs C:\Users\natthakhonl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.2\src\sockref.rs C:\Users\natthakhonl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.2\src\sys\windows.rs
+
+D:\code\rust\random_text_to_db\rust_texttodb\target\debug\deps\libsocket2-c9b20836586b10d6.rmeta: C:\Users\natthakhonl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.2\src\lib.rs C:\Users\natthakhonl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.2\src\sockaddr.rs C:\Users\natthakhonl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.2\src\socket.rs C:\Users\natthakhonl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.2\src\sockref.rs C:\Users\natthakhonl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.2\src\sys\windows.rs
+
+C:\Users\natthakhonl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.2\src\lib.rs:
+C:\Users\natthakhonl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.2\src\sockaddr.rs:
+C:\Users\natthakhonl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.2\src\socket.rs:
+C:\Users\natthakhonl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.2\src\sockref.rs:
+C:\Users\natthakhonl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.2\src\sys\windows.rs:
